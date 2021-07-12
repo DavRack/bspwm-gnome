@@ -7,19 +7,19 @@
 Allows you to use i3wm with GNOME 3 Session infrastructure.
 
 ## What do I get by installing it?
-- In order to manage GNOME things such as your cursor/icon, (GTK) themes and online accounts.
+- A way to manage GNOME things such as your cursor/icon, (GTK) themes and online accounts.
 - A friendly bridge that keeps your stuff from GNOME in an i3 environment.
 - Useful for people that are getting started with i3wm, but don't want to uninstall their current desktop environment.
 
 ## Requirements
 * i3-wm/i3-gaps
-* GNOME (3.38.x)
+* GNOME (40.x)
 * GDM (optional, but useful)
 
 ## Packages
 [![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
-## Installation from scratch
+## Installation using make
 Using `make`:
 * `git clone git@github.com:i3-gnome/i3-gnome.git`.
 * `cd i3-gnome`
